@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=gfbade&show_icons=true&theme=onedark"/>](https://github.com/gfbade/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=gfbade&show_icons=true&theme=cobalt"/>](https://github.com/gfbade/)
 
 <a href="https://www.linkedin.com/in/gutoferreira/">
   <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
