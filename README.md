@@ -14,7 +14,7 @@
 - Data Science enthusiast.
 - A final year student at "Faculdade de Informática e Administração Paulista" [(FIAP)](https://www.https://www.fiap.com.br/), completing my Associate degree in Cybersecurity.
 
-**Goal:** My goal is to act in security. Focusing in cybersecurity (**Blue team**, Red team) and aplicattions security (Ethical Hacking and **DevSecOps**). Keeping a competitive profile updated with courses and certifications.
+**Goal:** My goal is to act in security. Focusing in cybersecurity (**Blue team**, Red team) and aplicattion security (Ethical Hacking and **DevSecOps**). Keeping a competitive profile updated with courses and certifications.
 
 **To know more:**  [LinkedIn](https://www.linkedin.com/in/gutoferreira/), [E-mail](gfbade@gmail.com)
 
